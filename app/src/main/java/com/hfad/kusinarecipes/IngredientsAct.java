@@ -3,6 +3,7 @@ package com.hfad.kusinarecipes;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.widget.TextView;
 
 public class IngredientsAct extends AppCompatActivity {
 
@@ -11,4 +12,5 @@ public class IngredientsAct extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_ingredients);
     }
+
 }
