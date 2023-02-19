@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:layout_margin="0dp"
     android:padding="0dp"
-    tools:context=".MainActivity">
+    tools:context=".IngredientsAct">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -27,7 +27,8 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="horizontal">
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
 
                 <TextView
                     android:id="@+id/dish_name"
@@ -38,16 +39,19 @@
                     android:textSize="28sp" />
 
                 <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
+                    android:layout_width="26dp"
+                    android:layout_height="26dp"
                     app:srcCompat="@drawable/baseline_favorite_border_24"
-                    android:layout_marginStart="20dp"/>
+                    android:layout_marginStart="24dp"
+                    android:onClick="addToFavorite"
+                    android:id="@+id/fav_image"/>
 
                 <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
+                    android:layout_width="26dp"
+                    android:layout_height="26dp"
                     app:srcCompat="@drawable/baseline_share_24"
-                    android:layout_marginStart="@dimen/margin"/>
+                    android:layout_marginStart="@dimen/margin"
+                    android:onClick="shared"/>
 
             </LinearLayout>
 
