@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        dish1 = (CardView) findViewById(R.id.dish_1);
+        dish1 = findViewById(R.id.dish_1);
 
         dish1.setOnClickListener(this);
     }
