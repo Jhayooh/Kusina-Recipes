@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Kusina Recipes</string>
-    <string name="dish_name">Beef Bourguignon</string>
+    <string name="dish_name"><b>Beef Bourguignon</b></string>
     <string name="posted_by"><i>posted by Olivia Mesquita on January 28, 2016</i></string>
     <string name="ingredient"><b>Ingredients</b></string>
     <string name="ingredients">
@@ -55,10 +55,9 @@
 20. Taste for seasoning and fix salt and pepper.\n\n
 21. Garnish with chopped parsley and serve!\n\n
  </string>
-
-    <string name="menu_bar">Get Idea</string>
-    <string name="menu_bar2">Recipe of the Day</string>
-    <string name="menu_bar3">Popular</string>
+    <string name="favorite_btn">Added</string>
+    <string name="share_btn">Shared</string>
+    <string name="menu_bar">Get Idea   Recipe of the Day    Popular</string>
     <string name="dish1">Beef \nBourguignon</string>
     <string name="dish2">Cassoulet</string>
     <string name="dish3">Confit de Canard</string>
