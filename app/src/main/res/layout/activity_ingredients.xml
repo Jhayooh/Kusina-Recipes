@@ -30,9 +30,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="@dimen/margin"
-                android:layout_marginTop="10dp"
                 android:text="@string/dish_name"
-                android:textSize="30sp" />
+                android:textSize="25sp" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -41,13 +40,15 @@
                 android:text="@string/posted_by"
                 android:layout_marginStart="@dimen/margin"/>
 
+
+
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="@string/ingredient"
                 android:layout_marginTop="15dp"
-                android:textSize="20sp"
-                android:textAlignment="center"/>
+                android:textSize="18sp"
+                android:textAlignment="center" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -59,7 +60,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="@string/procedure"
-                android:textSize="20sp"
+                android:textSize="18sp"
                 android:textAlignment="center" />
             <TextView
                 android:layout_width="match_parent"
@@ -68,6 +69,7 @@
                 android:paddingEnd="@dimen/margin"
                 android:text="@string/procedures"
                 android:layout_margin="6sp"/>
+
 
         </LinearLayout>
     </ScrollView>
