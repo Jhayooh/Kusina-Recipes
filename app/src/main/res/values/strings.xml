@@ -1,3 +1,58 @@
 <resources>
     <string name="app_name">Kusina Recipes</string>
+    <string name="dish_name">Beef Bourguignon</string>
+    <string name="posted_by"><i>posted by Olivia Mesquita on January 28, 2016</i></string>
+    <string name="ingredient"><b>Ingredients</b></string>
+    <string name="ingredients">
+ <em>FOR THE STEW:</em>\n
+ \u2022 6 ounces thick cut bacon, diced\n
+ \u2022 1 tablespoon olive oil\n
+ \u2022 3 pounds lean stewing beef (preferably chuck), cut into 2 inch cubes and patted dry with a paper towel\n
+ \u2022 1 large onion, peeled and sliced\n
+ \u2022 1 large carrot, peeled and sliced\n
+ \u2022 2 garlic cloves, minced\n
+ \u2022 Salt and pepper to taste\n
+ \u2022 1 tablespoon flour\n
+ \u2022 1 750ml bottle full bodied, young red wine (*read the post for alternatives)\n
+ \u2022 2 to 3 cups brown beef stock\n
+ \u2022 1 tablespoon tomato paste\n
+ \u2022 1 teaspoon thyme leaves\n
+ \u20221 bay leaf\n
+ \u2022 Garnish: chopped parsley\n\n
+<em>FOR THE PEARL ONIONS:</em>\n
+ \u2022 18 to 24 small white pearl onions\n
+ \u2022 1 1/2 tablespoons olive oil\n
+ \u2022 1 1/2 tablespoons butter\n
+ \u2022 1/2 cup of beef broth\n
+ \u2022 Salt and ground pepper to taste\n
+ \u2022 1 bay leaf\n\n
+     <em>FOR THE MUSHROOMS:</em>\n
+ \u2022 1 pound fresh mushrooms, quartered\n
+ \u2022 2 tablespoons butter\n
+ \u2022 1 tablespoon oil\n
+    </string>
+    <string name="procedure"><b>Instructions</b></string>
+    <string name="procedures">
+1. Bring a pot of water to boil and add the bacon. Cook for 10 minutes, drain and dry with paper towels. (This step removes the excess salt/smoky flavor and renders some of the fat.)\n\n
+2. Pre heat oven to 450 degrees.\n\n
+3. In a large dutch oven (or ovenproof casserole), over medium heat, heat the oil and, once hot, saute the bacon for 2 to 3 minutes or until golden brown. Remove with a slotted spoon and reserve.\n\n
+4. Increase the heat to medium high and, working in batches, brown the beef on all sides in the hot oil and bacon fat. Remove the browned beef and reserve.\n\n
+5. In the same fat, add the onion and saute until it begins to brown, about 2 minutes. Add the garlic and carrots and continue sauteing for another couple minutes.\n\n
+6. Return the bacon and the beef to the dutch oven and season everything with salt and pepper. Then, sprinkle the flour and toss to coat the meat. Transfer the dutch oven, uncovered, to the pre heated oven and let it cook for 4 minutes.\n\n
+7. After 4 minutes, toss the meat once more and return the pot to the oven for 4 more minutes. (This process browns the flour and covers the meat with a light crust.)\n\n
+8. Remove the dutch oven from the oven and turn the temperature down to 325 degrees.\n\n
+9. Set the dutch oven on the stove again, over medium heat, and stir in the wine and the beef stock, so that the beef is barely covered. Now it\'s a good time to scrape any remaining browned bits off the bottom of the dutch oven, using a wooden spoon!\n\n
+10. Add the tomato paste, the thyme and the bay leaf. Once it begins simmering, cover and transfer to the oven. Cook for 2 1/2 to 3 hours or until the meat is tender. The meat is done when a fork pierces it easily.\n\n
+11. While the beef is cooking, prepare the onions and mushrooms.\n\n
+12. Peeling pearl onions can be challenging, so here\'s a little trick: Bring a pot full of water to a boil. While the water is boiling, trim the root end of the onions. Then add the onions and blanch for about a minute. Transfer them to a bowl of ice water to stop the cooking. Pinch each onion at its stem end, and it should just slip out of its skin. If not, use a paring knife to remove the skin.\n\n
+13. In a large skillet, over medium heat, heat the olive oil and the butter until they are bubbling. Add the onions and saute for about 10 minutes, stirring occasionally, until they are browned. Be careful not to break their skin!\n\n
+14. Pour the beef broth, season to taste and add the bay leaf. Cover and simmer slowly for 40 to 50 minutes or until the onions are soft (but retain their shape) and the liquid has evaporated. Reserve.\n\n
+15. Wipe out skillet and heat remaining oil and butter over medium high heat. Add the mushrooms and toss and shake pan for four to five minutes. As soon as they begin brown lightly, remove from heat.\n\n
+16. When the beef is done, remove from oven and separate the sauce from the beef, bacon and carrots, using tongs Reserve.\n\n
+17. Strain the sauce through a fine-meshed sieve set over a sauce pan. Skim fat off the sauce and simmer for a minute or two, skimming off additional fat as it rises. Cook until the sauce is thick enough to coat the back of a spoon. If too thick, add a few tablespoons of beef broth.\n\n
+18. Transfer the meat and vegetables back to the dutch oven and pour the sauce over it.\n\n
+19. Cover the dutch oven and simmer for 2 to 3 minutes, basting the meat and vegetables with the sauce several times.\n\n
+20. Taste for seasoning and fix salt and pepper.\n\n
+21. Garnish with chopped parsley and serve!\n\n
+ </string>
 </resources>
