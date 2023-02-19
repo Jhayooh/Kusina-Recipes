@@ -17,7 +17,7 @@
  \u2022 2 to 3 cups brown beef stock\n
  \u2022 1 tablespoon tomato paste\n
  \u2022 1 teaspoon thyme leaves\n
- \u20221 bay leaf\n
+ \u2022 1 bay leaf\n
  \u2022 Garnish: chopped parsley\n\n
 <em>FOR THE PEARL ONIONS:</em>\n
  \u2022 18 to 24 small white pearl onions\n
@@ -55,8 +55,4 @@
 20. Taste for seasoning and fix salt and pepper.\n\n
 21. Garnish with chopped parsley and serve!\n\n
  </string>
-    <string name="welcome_to_kusina_recipes">Welcome to Kusina Recipes!</string>
-    <string name="menu_bar">Get Idea   Recipe of the day    Popular</string>
-    <string name="dish1">Beef \nBourguignon</string>
-    <string name="recipe_dish">Recipe</string>
 </resources>
