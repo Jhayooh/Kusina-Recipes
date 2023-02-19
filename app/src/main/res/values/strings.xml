@@ -56,7 +56,9 @@
 21. Garnish with chopped parsley and serve!\n\n
  </string>
 
-    <string name="menu_bar">Get Idea   Recipe of the Day    Popular</string>
+    <string name="menu_bar">Get Idea</string>
+    <string name="menu_bar2">Recipe of the Day</string>
+    <string name="menu_bar3">Popular</string>
     <string name="dish1">Beef \nBourguignon</string>
     <string name="dish2">Cassoulet</string>
     <string name="dish3">Confit de Canard</string>
