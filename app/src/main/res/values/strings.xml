@@ -58,5 +58,8 @@
 
     <string name="menu_bar">Get Idea   Recipe of the Day    Popular</string>
     <string name="dish1">Beef \nBourguignon</string>
+    <string name="dish2">Cassoulet</string>
+    <string name="dish3">Confit de Canard</string>
+    <string name="dish4">Croque Monsieur</string>
     <string name="deswoyn">*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*</string>
 </resources>
