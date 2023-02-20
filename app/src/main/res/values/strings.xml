@@ -88,6 +88,25 @@
 10. Remove the chicken cassoulet from the oven and remove the thyme and rosemary sprigs, as well as the bay leaves. Allow it to sit for about 5 to 10 minutes (it will be very hot), then and sprinkle over top the 1 teaspoon of thyme leaves.\n
 11. To serve, spoon either 1 thigh or 2 drumsticks into a shallow bowl, along with some of the saucy beans and the sausage, and enjoy with crusty bread on the side for dipping.\n
     </string>
+    <string name="author3"><i>Posted by Than on December 24, 2020</i></string>
+    <string name="dish_name3">Confit de Canard</string>
+    <string name="dish3Ingredients">
+\u2022 sea salt\n
+\u2022 freshly cracked black pepper\n
+\u2022 4 duck legs (thigh and drumstick attached)\n
+\u2022 1 kg (2 lb) duck fat\n
+\u2022 2 bay leaves\n
+\u2022 4–6 sprigs of thyme\n
+    </string>
+    <string name="dish3procedures">
+1. Rinse the duck legs under running water and pat dry with kitchen paper.\n
+2. Melt the duck fat in a large saucepan that will hold the duck legs in a single layer. The duck fat should be at a temperature of 100°C/212°F.\n
+3. Immerse the duck in the fat, add a few bay leaves and some sprigs of thyme.\n
+4. You should have enough duck fat to just cover all of the duck legs. Keep in mind that, as the duck legs are cooking, they will render fat as well.\n
+5. Cook the duck on a very low heat for about 2 hours until the meat falls off the bone easily. There should be barely a bubble seen in the oil during this time. An easier way to maintain a constant temperature is to place the saucepan into the oven (without fan) at 100°C/212°F.\n
+6. Check regularly to make sure that the oil is not bubbling, otherwise you will end up deep-frying and drying out the duck legs.\n
+7. To test if the duck is cooked to the right texture, carefully remove one duck leg to a plate with the skin side facing down. Test with a fork to see if the meat falls away from the bone easily.\n
+    </string>
     <string name="favorite_btn">Added</string>
     <string name="share_btn">Shared</string>
     <string name="menu_bar">Get Idea</string>
