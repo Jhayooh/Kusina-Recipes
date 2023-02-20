@@ -16,8 +16,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         dish1 = findViewById(R.id.dish_1);
-
         dish1.setOnClickListener(this);
+        dish2 = findViewById(R.id.dish_2);
+        dish2.setOnClickListener(this);
     }
 
     public void onClickIngredients(View view) {
