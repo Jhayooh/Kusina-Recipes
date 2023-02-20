@@ -104,4 +104,7 @@
     <string name="comment_date">2 DAYS AGO</string>
     <string name="comment">That looks so delicious! Love love.</string>
     <string name="comment_reply_tag">REPLY</string>
+    <string name="comment_hint">Write your comment here...</string>
+    <string name="submit_btn">submit</string>
+    <string name="cancel_btn">cancel</string>
 </resources>

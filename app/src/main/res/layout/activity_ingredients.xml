@@ -144,33 +144,49 @@
                 android:layout_height="1dp"
                 android:layout_marginBottom="10dp"
                 android:background="?android:attr/listDivider" />
-            <LinearLayout
+
+            <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="vertical"
                 android:layout_margin="@dimen/margin">
 
                 <EditText
                     android:id="@+id/editText"
                     android:layout_width="match_parent"
                     android:layout_height="140dp"
+                    android:background="#f2f2f2"
+                    android:gravity="top"
+                    android:hint="@string/comment_hint"
+                    android:padding="@dimen/margin"
                     android:paddingStart="15dp"
                     android:paddingEnd="15dp"
-                    android:gravity="top"
-                    android:hint="Add Comment"
-                    android:padding="@dimen/margin"
-                    android:background="#f2f2f2"/>
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"/>
 
                 <Button
                     android:id="@+id/submit_btn"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="submit"
+                    android:backgroundTint="#10c1a0"
+                    android:text="@string/submit_btn"
                     android:textSize="12sp"
-                    app:layout_constraintBottom_toBottomOf="parent"
-                    app:layout_constraintEnd_toEndOf="parent"
-                    app:layout_constraintTop_toTopOf="parent" />
-            </LinearLayout>
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/editText"/>
+
+                <Button
+                    android:id="@+id/cancel_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="#fffff2"
+                    android:text="@string/cancel_btn"
+                    android:textColor="#10c1a0"
+                    android:textSize="12sp"
+                    android:layout_marginStart="5dp"
+                    app:layout_constraintStart_toEndOf="@+id/submit_btn"
+                    app:layout_constraintTop_toBottomOf="@+id/editText" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
 
             <View
                 android:id="@+id/divider"
