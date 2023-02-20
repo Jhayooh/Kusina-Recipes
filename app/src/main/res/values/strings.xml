@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Kusina Recipes</string>
     <string name="dish_name"><b>Beef Bourguignon</b></string>
-    <string name="posted_by"><i>posted by Olivia Mesquita on January 28, 2016</i></string>
+    <string name="posted_by"><i>by Olivia Mesquita</i></string>
     <string name="ingredient"><b>Ingredients</b></string>
     <string name="ingredients">
  <em>FOR THE STEW:</em>\n
@@ -98,4 +98,10 @@
     <string name="dish3">Confit de Canard</string>
     <string name="dish4">Croque Monsieur</string>
     <string name="deswoyn">*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*</string>
+    <string name="cook_time">Prep Time: 40mins\nReady in: 2 hours 30mins</string>
+    <string name="comment_tag">Comments</string>
+    <string name="comment_name"><b>Macalinao, Arjay</b></string>
+    <string name="comment_date">2 DAYS AGO</string>
+    <string name="comment">That looks so delicious! Love love.</string>
+    <string name="comment_reply_tag">REPLY</string>
 </resources>
