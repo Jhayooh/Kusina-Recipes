@@ -56,7 +56,7 @@
 21. Garnish with chopped parsley and serve!\n\n
  </string>
     <string name="author2"><i>Posted by Ingrid Beer on March 11, 2022</i></string>
-    <string name="dish_name2">Cassoulet</string>
+    <string name="dish_name2"><b>Cassoulet</b></string>
     <string name="dish2Ingredients">
 \u2022 8 ounces pancetta (or salt pork), cut into larger dice\n
 \u2022 12 ounces pork sausage (garlic sausage, if you can find it), cut into 2” inch pieces\n
@@ -76,17 +76,63 @@
 \u2022 1 large sprig rosemary\n
 \u2022 Crusty bread, to serve alongside\n</string>
     <string name="dish2procedures">
-1. Begin by gathering and prepping all of your ingredients according to the ingredient list above to have ready and organized for use.\n
-2. Preheat the oven to 350°.\n
-3. Place a large, deep Dutch oven or pot over medium-high heat. Once hot, add in the diced pancetta and allow it to crisp for about 5 minutes. Remove from the pot and set aside for a moment.\n
-4. Next, add in the chunks of pork sausage, and sear those for about 5 to 6 minutes, or until golden-brown. Remove those from the pot and set aside for a moment.\n
-5. Season the chicken thighs and drumsticks with salt and pepper, and sear those in the pot for about 4 minutes per side, or until the skin is golden-brown. Remove from pot and set aside for a moment.\n
-6. Wipe out a bit of fat from the pot leaving about 2 tablespoons worth. Add in the onion and saute for about 2 to 3 minutes, until softened. Add in the bay leaves and Herbes de Provence, along with the garlic, and stir those in until aromatic.\n
-7. Stir in the tomato paste to incorporate, then pour in the white wine, allowing it bubble up for about 30 seconds.\n
-8. Add in the cannellini beans and the chicken stock, and stir to combine. Bring to a simmer, then add back into the pot the sausage pieces and the pancetta, and nestle the chicken pieces into the pot. Scatter the bundle of thyme over top of the chicken (breaking up the bundle into smaller sprigs), and add the rosemary sprig as well.\n
-9. Place the chicken cassoulet into the oven, uncovered, and cook for 1 hour, turning the pot halfway through the cooking for even browning.\n
-10. Remove the chicken cassoulet from the oven and remove the thyme and rosemary sprigs, as well as the bay leaves. Allow it to sit for about 5 to 10 minutes (it will be very hot), then and sprinkle over top the 1 teaspoon of thyme leaves.\n
-11. To serve, spoon either 1 thigh or 2 drumsticks into a shallow bowl, along with some of the saucy beans and the sausage, and enjoy with crusty bread on the side for dipping.\n
+1. Begin by gathering and prepping all of your ingredients according to the ingredient list above to have ready and organized for use.\n\n
+2. Preheat the oven to 350°.\n\n
+3. Place a large, deep Dutch oven or pot over medium-high heat. Once hot, add in the diced pancetta and allow it to crisp for about 5 minutes. Remove from the pot and set aside for a moment.\n\n
+4. Next, add in the chunks of pork sausage, and sear those for about 5 to 6 minutes, or until golden-brown. Remove those from the pot and set aside for a moment.\n\n
+5. Season the chicken thighs and drumsticks with salt and pepper, and sear those in the pot for about 4 minutes per side, or until the skin is golden-brown. Remove from pot and set aside for a moment.\n\n
+6. Wipe out a bit of fat from the pot leaving about 2 tablespoons worth. Add in the onion and saute for about 2 to 3 minutes, until softened. Add in the bay leaves and Herbes de Provence, along with the garlic, and stir those in until aromatic.\n\n
+7. Stir in the tomato paste to incorporate, then pour in the white wine, allowing it bubble up for about 30 seconds.\n\n
+8. Add in the cannellini beans and the chicken stock, and stir to combine. Bring to a simmer, then add back into the pot the sausage pieces and the pancetta, and nestle the chicken pieces into the pot. Scatter the bundle of thyme over top of the chicken (breaking up the bundle into smaller sprigs), and add the rosemary sprig as well.\n\n
+9. Place the chicken cassoulet into the oven, uncovered, and cook for 1 hour, turning the pot halfway through the cooking for even browning.\n\n
+10. Remove the chicken cassoulet from the oven and remove the thyme and rosemary sprigs, as well as the bay leaves. Allow it to sit for about 5 to 10 minutes (it will be very hot), then and sprinkle over top the 1 teaspoon of thyme leaves.\n\n
+11. To serve, spoon either 1 thigh or 2 drumsticks into a shallow bowl, along with some of the saucy beans and the sausage, and enjoy with crusty bread on the side for dipping.\n\n
+    </string>
+    <string name="author3"><i>Posted by Than on December 24, 2020</i></string>
+    <string name="dish_name3"><b>Confit de Canard</b></string>
+    <string name="dish3Ingredients">
+\u2022 sea salt\n
+\u2022 freshly cracked black pepper\n
+\u2022 4 duck legs (thigh and drumstick attached)\n
+\u2022 1 kg (2 lb) duck fat\n
+\u2022 2 bay leaves\n
+\u2022 4–6 sprigs of thyme\n
+    </string>
+    <string name="dish3procedures">
+1. Rinse the duck legs under running water and pat dry with kitchen paper.\n\n
+2. Melt the duck fat in a large saucepan that will hold the duck legs in a single layer. The duck fat should be at a temperature of 100°C/212°F.\n\n
+3. Immerse the duck in the fat, add a few bay leaves and some sprigs of thyme.\n\n
+4. You should have enough duck fat to just cover all of the duck legs. Keep in mind that, as the duck legs are cooking, they will render fat as well.\n\n
+5. Cook the duck on a very low heat for about 2 hours until the meat falls off the bone easily. There should be barely a bubble seen in the oil during this time. An easier way to maintain a constant temperature is to place the saucepan into the oven (without fan) at 100°C/212°F.\n\n
+6. Check regularly to make sure that the oil is not bubbling, otherwise you will end up deep-frying and drying out the duck legs.\n\n
+7. To test if the duck is cooked to the right texture, carefully remove one duck leg to a plate with the skin side facing down. Test with a fork to see if the meat falls away from the bone easily.\n\n
+    </string>
+    <string name="author4"><i>Posted by FOOD FOR NET on September 23, 2017</i></string>
+    <string name="dish_name4"><b>Croque Monsieur</b></string>
+    <string name="dish4Ingredients">
+<b>For the Sandwiches:</b>\n
+\u2022 6 Slices Sandwich Bread\n
+\u2022 3-6 Slices Farmers Ham pan-fried\n
+\u2022 3 Slices Gruyere Cheese\n
+\u2022 3 Tablespoons Dijon Mustard\n
+<b>For the Bechamel Sauce:</b>\n
+\u2022 2 Tablespoons Butter\n
+\u2022 2 Tablespoons Flour\n
+\u2022 1.5 Cups Milk\n
+\u2022 1/2 Cup Shredded Parmesan\n
+    </string>
+    <string name="dish4procedures">
+<b>For the Bechamel Sauce:</b>\n
+1. Melt butter in a saucepan.\n
+2. Stir in the flour.\n
+3. Whisk in the milk and simmer until thick.\n
+4. Stir in the parmesan until fully melted.\n
+5. Season with salt if needed. Set aside.\n\n
+<b>For the Sandwiches</b>\n
+1. Brush the slices of bread with butter on both sides and toast slightly in the oven.\n
+2. Brush the toasted side of the bread with mustard. Layer in the ham and gruyere. Top with the other slice of bread.\n
+3. Spread bechamel on top of the assembled sandwiches.\n
+4. Gratinate until top is bubbly.\n
     </string>
     <string name="favorite_btn">Added</string>
     <string name="share_btn">Shared</string>
