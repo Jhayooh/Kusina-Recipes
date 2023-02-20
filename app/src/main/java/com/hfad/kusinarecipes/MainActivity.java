@@ -9,7 +9,7 @@ import android.view.View;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
-    public CardView dish1;
+    public CardView dish1,dish2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -31,6 +31,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         switch (view.getId()){
             case R.id.dish_1:
                 i = new Intent(this,IngredientsAct.class);
+                startActivity(i);
+                break;
+        }
+        switch (view.getId()){
+            case R.id.dish_2:
+                i = new Intent(this,dish2.class);
                 startActivity(i);
                 break;
         }
