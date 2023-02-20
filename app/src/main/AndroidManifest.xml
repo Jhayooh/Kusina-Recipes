@@ -12,6 +12,9 @@
         android:theme="@style/Theme.KusinaRecipes"
         tools:targetApi="31">
         <activity
+            android:name=".dish3"
+            android:exported="false" />
+        <activity
             android:name=".dish2"
             android:exported="false" />
         <activity
