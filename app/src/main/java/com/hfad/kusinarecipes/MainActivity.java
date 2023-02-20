@@ -9,7 +9,7 @@ import android.view.View;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
-    public CardView dish1,dish2,dish3;
+    public CardView dish1,dish2,dish3,dish4;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,6 +21,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         dish2.setOnClickListener(this);
         dish3 = findViewById(R.id.dish_3);
         dish3.setOnClickListener(this);
+        dish4 = findViewById(R.id.dish_4);
+        dish4.setOnClickListener(this);
     }
 
     public void onClickIngredients(View view) {
@@ -46,6 +48,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         switch (view.getId()){
             case R.id.dish_3:
                 i = new Intent(this,dish3.class);
+                startActivity(i);
+                break;
+        }
+        switch (view.getId()){
+            case R.id.dish_4:
+                i = new Intent(this,dish4.class);
                 startActivity(i);
                 break;
         }
