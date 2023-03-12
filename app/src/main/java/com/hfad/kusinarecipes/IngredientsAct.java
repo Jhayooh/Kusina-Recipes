@@ -12,6 +12,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class IngredientsAct extends AppCompatActivity {
+
+    public ImageView ShareRecipe;
     private View divider;
     private ScrollView scrollView;
     @Override
@@ -20,16 +22,25 @@ public class IngredientsAct extends AppCompatActivity {
         setContentView(R.layout.activity_ingredients);
         scrollView = findViewById(R.id.scroll);
         divider = findViewById(R.id.divider);
+        ShareRecipe = findViewById(R.id.shareBtn);
+
+        ShareRecipe.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(Intent.ACTION_SEND);
+                intent.setType("text/plain");
+                String body = "Download this app";
+                intent.putExtra(Intent.EXTRA_TEXT, body);
+                startActivity(Intent.createChooser(intent,"Share using:"));
+            }
+        });
     }
 
     public void addToFavorite(View view) {
         Toast toast = Toast.makeText(this, R.string.favorite_btn, Toast.LENGTH_SHORT);
         toast.show();
     }
-    public void shared(View view) {
-        Toast toast = Toast.makeText(this, R.string.share_btn, Toast.LENGTH_SHORT);
-        toast.show();
-    }
+
     public void scrollToCom(View view) {
         new Handler().post(new Runnable() {
             @Override
