@@ -49,7 +49,8 @@
                     android:layout_height="26dp"
                     app:srcCompat="@drawable/baseline_share_24"
                     android:layout_marginStart="@dimen/margin"
-                    android:onClick="shared"/>
+                    android:onClick="shareRecipe"
+                    android:id="@+id/shareBtn"/>
 
             </LinearLayout>
 
