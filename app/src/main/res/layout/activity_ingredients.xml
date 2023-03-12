@@ -48,12 +48,12 @@
                     android:layout_marginEnd="15dp"
                     android:onClick="addToFavorite"
                     android:id="@+id/fav_image"
-                    app:layout_constraintEnd_toStartOf="@+id/share_image"
+                    app:layout_constraintEnd_toStartOf="@+id/shareBtn"
                     app:layout_constraintTop_toTopOf="parent"
                     app:layout_constraintBottom_toBottomOf="parent"/>
 
                 <ImageView
-                    android:id="@+id/share_image"
+                    android:id="@+id/shareBtn"
                     android:layout_width="28dp"
                     android:layout_height="28dp"
                     app:srcCompat="@drawable/baseline_share_24"
@@ -106,6 +106,7 @@
                     android:onClick="scrollToCom"/>
 
             </LinearLayout>
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
