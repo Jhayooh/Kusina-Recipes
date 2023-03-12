@@ -88,7 +88,7 @@
 10. Remove the chicken cassoulet from the oven and remove the thyme and rosemary sprigs, as well as the bay leaves. Allow it to sit for about 5 to 10 minutes (it will be very hot), then and sprinkle over top the 1 teaspoon of thyme leaves.\n\n
 11. To serve, spoon either 1 thigh or 2 drumsticks into a shallow bowl, along with some of the saucy beans and the sausage, and enjoy with crusty bread on the side for dipping.\n\n
     </string>
-    <string name="author3"><i>Posted by Than on December 24, 2020</i></string>
+    <string name="author3"><i>by Than</i></string>
     <string name="dish_name3"><b>Confit de Canard</b></string>
     <string name="dish3Ingredients">
 \u2022 sea salt\n
@@ -107,7 +107,7 @@
 6. Check regularly to make sure that the oil is not bubbling, otherwise you will end up deep-frying and drying out the duck legs.\n\n
 7. To test if the duck is cooked to the right texture, carefully remove one duck leg to a plate with the skin side facing down. Test with a fork to see if the meat falls away from the bone easily.\n\n
     </string>
-    <string name="author4"><i>Posted by FOOD FOR NET on September 23, 2017</i></string>
+    <string name="author4"><i>by FOOD FOR NET</i></string>
     <string name="dish_name4"><b>Croque Monsieur</b></string>
     <string name="dish4Ingredients">
 <b>For the Sandwiches:</b>\n
@@ -146,6 +146,8 @@
     <string name="deswoyn">*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*\t*</string>
     <string name="cook_time">Prep Time: 40mins\nReady in: 2 hours 30mins</string>
     <string name="cook_time2">Prep Time: 25mins\nReady in: 1 hour 30mins</string>
+    <string name="cook_time3">Prep Time: 10mins\nReady in: 2 hours 20mins</string>
+    <string name="cook_time4">Prep Time: 10mins\nReady in: 25mins</string>
     <string name="comment_tag">Comments</string>
     <string name="comment_name"><b>Macalinao, Arjay</b></string>
     <string name="comment_date">2 DAYS AGO</string>
